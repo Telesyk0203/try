@@ -14,6 +14,7 @@ Changes to be committed:
 ```
 
 
+
 **git commit -m "_Коментарій комміту_"** - зробити комміт(знімок) та закоментувати його , що саме ви зробили;
 ```
 $ git commit -m "My first commit"
